@@ -1,8 +1,6 @@
 name: WakaTime stats update in README.md
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     # Runs at 12 am IST change to '0 0 * * *' for UTC
     - cron: '1 0 * * *'
