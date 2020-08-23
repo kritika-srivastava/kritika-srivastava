@@ -1,5 +1,3 @@
-# kritika-srivastava
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Kritika Srivastava and I am currently a junior at National Institute of Technology, Hamirpur.
 
