@@ -1,7 +1,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Kritika Srivastava and I am currently a junior at National Institute of Technology, Hamirpur.
+- Currently, I am working on Image Processing and OpenCV 💻. 
+- My interest areas include Machine Learning and Deep Learning 👩‍💻. 
+- I am a competitive programming enthusiast (❁´◡`❁).
 
-My weekly coding Activity Graph.
+Check out [My Portfolio ](https://kritika-srivastava.github.io/)
+
+This is my weekly coding Activity Graph.
 &nbsp;
 
 <img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
