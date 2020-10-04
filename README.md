@@ -12,5 +12,8 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 <!-- <img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&show_icons=true&count_private=true&title_color=FF0000" alt="Github stats" />
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-srivastava&title_color=FF0000" />
 
 # ![](https://komarev.com/ghpvc/?username=kritika-srivastava&color=green)
