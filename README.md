@@ -15,6 +15,9 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 <!--<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>>
 
 <!--START_SECTION:waka-->
+```text
+Java     4 hrs 30 mins   █████████████████████████   99.89 % 
+```
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&show_icons=true&count_private=true&title_color=#800000" alt="Github stats" />
