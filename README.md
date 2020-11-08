@@ -16,7 +16,9 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 
 <!--START_SECTION:waka-->
 ```text
-Java     3 hrs 24 mins   █████████████████████████   99.85 % 
+Java     3 hrs 9 mins    ██████████████████████░░░   88.05 % 
+Other    23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Python   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 <!--END_SECTION:waka-->
 
