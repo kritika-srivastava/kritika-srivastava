@@ -12,15 +12,7 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/)
  This is my weekly coding Activity Graph.
 &nbsp;
 
-<!--<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>>
-
-<!--START_SECTION:waka-->
-```text
-Java     1 hr 41 mins    ████████████████████░░░░░   80.03 % 
-Other    23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Python   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-<!--END_SECTION:waka-->
+<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&show_icons=true&count_private=true&title_color=#800000" alt="Github stats" />
 
