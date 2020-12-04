@@ -9,10 +9,10 @@ My name is Kritika Srivastava and I am currently a junior at National Institute 
 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 
- This is my weekly coding Activity Graph.
+ <!-- >This is my weekly coding Activity Graph.
 &nbsp;
 
-<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
+<!--><img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&show_icons=true&count_private=true&title_color=#800000" alt="Github stats" />
 
