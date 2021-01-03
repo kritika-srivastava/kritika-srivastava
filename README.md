@@ -8,8 +8,9 @@ My name is Kritika Srivastava and I am currently a junior at National Institute 
 - I am a competitive programming enthusiast (❁´◡`❁).
 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/)
+&nbsp;
 
- This is my weekly coding Activity Graph which shall be updated once my exams get over. Stay tuned ;-)
+ This is my weekly coding Activity Graph.
 &nbsp;
 
 <img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
