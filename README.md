@@ -10,11 +10,24 @@ My name is Kritika Srivastava and I am currently a junior at National Institute 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 &nbsp;
 
- This is my weekly coding Activity Graph.
-&nbsp;
+# 
 
-<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg>
+ <p align="center">
+ <b>
+  MY WEEKLY CODING ACTIVITY GRAPH
+  </b>
+</p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kritika-srivastava&theme=radical&show_icons=true)
+<p align="center">
+<img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg alt="image"/>
+</p>
 
-# ![](https://komarev.com/ghpvc/?username=kritika-srivastava&color=red)
+#
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&theme=radical&show_icons=true" alt="image" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kritika-srivastava&color=red" alt="image" />
+ </p>
