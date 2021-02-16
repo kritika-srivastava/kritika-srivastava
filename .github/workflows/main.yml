@@ -1,0 +1,16 @@
+name: WakaTime stats update in README.md
+
+on:
+  schedule:
+    # Runs at 12 am IST change to '0 0 * * *' for UTC
+    - cron: '1 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update the WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
