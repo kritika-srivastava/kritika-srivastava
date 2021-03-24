@@ -24,10 +24,6 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/)
 
 #
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=kritika-srivastava&theme=dracula&layout=compact&title_color=FF69B4)
-
-#
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&theme=radical&show_icons=true" alt="image" />
 </p>
