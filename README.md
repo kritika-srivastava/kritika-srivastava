@@ -7,7 +7,7 @@ My name is Kritika Srivastava and I am currently a junior at National Institute 
 - My interest areas include Brain Computer Interface, Robotics and Deep Learning 👩‍💻. 
 - I am a competitive programming enthusiast (❁´◡`❁).
 
-Check out [My Portfolio ](https://kritika-srivastava.github.io/)
+Check out [My Portfolio ](https://kritika-srivastava.github.io/) and [blog](https://kritikajournals.tech/)
 &nbsp;
 
 # 
