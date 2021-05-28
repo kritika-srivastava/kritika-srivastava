@@ -4,7 +4,7 @@
  
 My name is Kritika Srivastava and I am currently a junior at National Institute of Technology, Hamirpur.
 - Currently, I am working on Image Processing and OpenCV 💻. 
-- My interest areas include Brain Computer Interface, Robotics and Deep Learning 👩‍💻. 
+- My interest areas include Machine Learning and Deep Learning 👩‍💻. 
 - I am a competitive programming enthusiast (❁´◡`❁).
 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/) and [blog](https://kritikajournals.tech/)
