@@ -7,7 +7,7 @@ My name is Kritika Srivastava and I am currently a junior at National Institute 
 - My interest areas include Machine Learning and Deep Learning 👩‍💻. 
 - I am a competitive programming enthusiast (❁´◡`❁).
 
-Check out [My Portfolio ](https://kritika-srivastava.github.io/) and [blog](https://kritikajournals.tech/)
+Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https://kritikajournals.tech/) and you can reach me to through my [Email](kritika.s1408@gmail.com)
 &nbsp;
 
 # 
