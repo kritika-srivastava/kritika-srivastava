@@ -9,7 +9,7 @@ My name is Kritika Srivastava and I am currently a senior at National Institute 
 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https://kritikajournals.tech/) and you can reach me to through my [Email](kritika.s1408@gmail.com)
 &nbsp;
-<!---
+
 # 
 
  <p align="center">
@@ -23,7 +23,7 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https:
 </p>
 
 #
---->
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&theme=radical&show_icons=true" alt="image" />
