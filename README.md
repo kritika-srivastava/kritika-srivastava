@@ -2,10 +2,7 @@
 <img align="right" height="180px" src="https://i.pinimg.com/originals/69/b5/6d/69b56d199dc7709d88792c1a713982bc.gif" alt="image" />
 <p align="left">
  
-My name is Kritika Srivastava and I am currently a senior at National Institute of Technology, Hamirpur.
-- Currently, I am working on Image Processing and OpenCV 💻. 
-- My interest areas include Machine Learning and Deep Learning 👩‍💻. 
-- I am a competitive programming enthusiast (❁´◡`❁).
+I am Kritika Srivastava and I am working as a Software Engineer at NatWest . 
 
 Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https://kritikajournals.tech/) and you can reach me to through my [Email](kritika.s1408@gmail.com)
 &nbsp;
