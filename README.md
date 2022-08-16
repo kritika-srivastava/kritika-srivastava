@@ -12,7 +12,19 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https:
  <p align="center">
 
 <!--START_SECTION:waka-->
-  
+
+```text
+From: 08 August 2022 - To: 15 August 2022
+
+Total Time: 9 hrs 40 mins
+
+Java         13 hrs 57 mins  █████████████████████░░░░   83.51 %
+Markdown     2 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
   
