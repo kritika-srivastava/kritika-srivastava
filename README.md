@@ -10,15 +10,24 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https:
 # 
 
  <p align="center">
+
+<!--START_SECTION:waka-->
+  
+<!--END_SECTION:waka-->
+
+  
+  <!--
  <b>
   MY WEEKLY CODING ACTIVITY GRAPH
   </b>
 </p>
 
+
 <p align="center">
 <img src=https://github.com/kritika-srivastava/kritika-srivastava/blob/master/images/stat.svg alt="image"/>
 </p>
-
+-->
+  
 #
 
 
