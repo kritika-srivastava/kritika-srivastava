@@ -6,7 +6,6 @@ on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: '0 0 * * *'
-
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -19,8 +18,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
           GITHUB_TOKEN: ${{ github.token }}
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
           
           BRANCH: "master"
          
-          COMMIT_MSG: "Automated Coding Activity Update :star:"
+          COMMIT_MESSAGE: "Automated Coding Activity Update :star:"
 
