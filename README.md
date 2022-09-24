@@ -4,7 +4,7 @@
  
 I am Kritika Srivastava and I am working as a Software Engineer at NatWest . 
 
-Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https://kritikajournals.tech/) and you can reach me to through my [Email](kritika.s1408@gmail.com)
+Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https://kritika-srivastava.github.io/Personal-Blog/) and you can reach me to through my [Email](kritika.s1408@gmail.com)
 &nbsp;
 
 # 
