@@ -24,9 +24,10 @@ Check out [My Portfolio ](https://kritika-srivastava.github.io/) | [blog](https:
 #
 
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kritika-srivastava&theme=radical&show_icons=true" alt="image" />
 </p>
+-->
 
 
 <p align="center">
